@@ -34,7 +34,7 @@
       <![CDATA[Installed or (PSCOMPATIBLEVERSION >< "5.1")]]>
     </Condition>
 
-    <?define NetFx472MinRelease = 461808 ?>
+    <?define NetFx472MinRelease = 4.2.08 ?>
     <Property Id="NETFRAMEWORK472" Value="0" Secure="yes">
         <RegistrySearch
             Id="RegSearch"
