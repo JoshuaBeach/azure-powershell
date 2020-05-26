@@ -19,6 +19,7 @@
 -->
 
 ## Upcoming Release
+* General availability of `Az.DataShare` module
 
 ## Version 0.1.2
 * Update references to use latest Nuget package version

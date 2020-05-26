@@ -18,7 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
-* General availability of 'Az.DesktopVirtualization' module
+* General availability of `Az.DesktopVirtualization` module
 
 ## 0.1.0
 * The first preview release
